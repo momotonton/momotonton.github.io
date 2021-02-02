@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://momotonton.github.io/sitemap.xml
