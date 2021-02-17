@@ -5,6 +5,6 @@ menu: true
 order: 2
 ---
 
-## 소개
+## Introduce
 
-Try to Github Blog
+Try to make Github Blog

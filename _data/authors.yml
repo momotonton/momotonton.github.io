@@ -48,19 +48,19 @@ vvs:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          https://momotonton.tistory.com/
+    github:          https://github.com/momotonton
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
     # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
-    # blogger:         <number>
+    blogger:         https://momotonton.tistory.com/
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:justartwo@daum.net
-    rss:             # https://momotonton.github.io/feed.xml
+    # rss:             # https://momotonton.github.io/feed.xml
 
 # Another author
 author2:
